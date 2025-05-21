@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Latihan</string>
+    <string name="cloud">cloud</string>
+    <string name="cloud_rain">cloud_rain</string>
+    <string name="sun">sun</string>
 </resources>

@@ -8,16 +8,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/cloud"
-        android:contentDescription="cloud"/>
+        android:contentDescription="@string/cloud"/>
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/cloud_rain"
-        android:contentDescription="cloud_rain"/>
+        android:contentDescription="@string/cloud_rain"/>
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/sun"
-        android:contentDescription="sun"/>
+        android:contentDescription="@string/sun"/>
 
 </FrameLayout>
